@@ -6,9 +6,10 @@ Security is major concern these days. Keeping this real life problem in mind we 
 to make a tool which can encrypt and decrypt a specific file.
 
 # File format: 
-Our code supports encryption and decryption of simple text files and images.
+Our code supports encryption and decryption of simple text files and images file.
 
 Coding Language: Java
+GUI: Javafx
 
 # Techniques: The algorithms that have been used by us include
 1.) Caesar Cipher - It is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on.
